@@ -2,5 +2,8 @@
 
 DocAnalyzerBot is a model that can be used to find information from a file thats been uploadede to it. The files have to be on pdf format. the bt analyses the document and answer any queris relating to the document when prompted.
 
-This project is based on on of the advanced python project courses available on linkedin learning. You can find the full course on : https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications
+This project is based on on of the advanced python project courses available on linkedin learning.
+
+You can find the full course on : https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications.
+
 The project is an expansion of the course and the reference files can be also found in the linked in course repository (this is a base modules): https://github.com/LinkedInLearning/advanced-python-projects-build-ai-applications-4465602
