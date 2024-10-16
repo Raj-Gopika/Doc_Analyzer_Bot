@@ -7,3 +7,12 @@ This project is based on on of the advanced python project courses available on 
 You can find the full course on : https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications.
 
 The project is an expansion of the course and the reference files can be also found in the linked in course repository (this is a base modules): https://github.com/LinkedInLearning/advanced-python-projects-build-ai-applications-4465602
+
+
+## Required Keys
+
+You need to have an open AI key and AWS bucket Keys for the Document Analyzer.
+
+Resources on how to get the keys:
+OpenAI Key: 
+AWS S3 Bucket Key: 
