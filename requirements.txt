@@ -1,1 +1,9 @@
 textblob
+pydantic
+pymongo
+fastapi
+langchain
+langchain_openai
+langchain_community
+awswrangler
+boto3
