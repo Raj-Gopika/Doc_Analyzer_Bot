@@ -11,7 +11,7 @@ The project is an expansion of the course and the reference files can be also fo
 
 ## Required Keys
 
-You need to have an open AI key and AWS bucket Keys for the Document Analyzer.
+You need to have an open AI key and AWS S3 bucket Keys for the Document Analyzer.
 
 Resources on how to get the keys:
 
