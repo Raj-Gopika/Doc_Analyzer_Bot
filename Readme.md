@@ -19,7 +19,7 @@ AWS S3 Bucket Key:
 
 ## Basic Outline
 The bot is divided into two parts:
-A Back-end and a Front-end
+A Back-end and a Front-end. there is also a Small Chatbot demo to understanf the basics of how a chabot might respond and hpw they are scored (This example is based on sentimental score analysis using sentiment analyzer from the textblob package)
 
 ### Backend
 Desc
