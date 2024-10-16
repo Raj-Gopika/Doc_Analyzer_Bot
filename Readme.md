@@ -15,7 +15,7 @@ You need to have an open AI key and AWS bucket Keys for the Document Analyzer.
 
 Resources on how to get the keys:
 OpenAI Key: 
-AWS S3 Bucket Key: 
+AWS S3 Bucket Key: https://docs.aws.amazon.com/AmazonS3/latest/userguide/configuring-bucket-key.html
 
 ## Basic Outline
 The bot is divided into two parts:
