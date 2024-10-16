@@ -14,7 +14,9 @@ The project is an expansion of the course and the reference files can be also fo
 You need to have an open AI key and AWS bucket Keys for the Document Analyzer.
 
 Resources on how to get the keys:
-OpenAI Key: 
+
+OpenAI Key:
+
 AWS S3 Bucket Key: https://docs.aws.amazon.com/AmazonS3/latest/userguide/configuring-bucket-key.html
 
 ## Basic Outline
